@@ -20,3 +20,8 @@ code
 var a=1
 console.log(a)
 ```
+
+
+my website is [谷歌](https:www.google.com)
+
+my picture is ![图片](1.png)
