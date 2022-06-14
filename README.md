@@ -13,10 +13,10 @@ l love make money
 * many
 * much
 
-    var a=1
-    console.log(a)
+
 code
-```
+
+```javascript
 var a=1
 console.log(a)
 ```
